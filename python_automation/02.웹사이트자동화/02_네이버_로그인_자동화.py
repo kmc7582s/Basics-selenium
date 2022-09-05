@@ -20,8 +20,8 @@ time.sleep(2) # 2초 정도 프로그램을 멈춤
 # 비밀번호 입력창
 pw = browser.find_element_by_css_selector("#pw")
 pw.click()
-# pw.send_keys("@kmc597582")
-pyperclip.copy("@kmc597582")
+# pw.send_keys("비밀번호")
+pyperclip.copy("비밀번호")
 pyautogui.hotkey("ctrl","v")
 time.sleep(2)
 
