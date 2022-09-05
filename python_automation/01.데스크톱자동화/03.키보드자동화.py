@@ -3,7 +3,7 @@ import pyperclip
 
 # 1. 키보드 입력 (문자)
 # pyautogui.write('startcoding', interval=0.25)
-# pyautogui.write('스타트코딩')
+# pyautogui.write('minchan')
 
 # 2. 키보드 입력 (키)
 # pyautogui.press('enter')
